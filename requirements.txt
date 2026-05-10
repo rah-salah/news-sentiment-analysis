@@ -5,3 +5,6 @@ seaborn
 jupyter
 scikit-learn
 nltk
+ta
+TA-Lib
+textblob
